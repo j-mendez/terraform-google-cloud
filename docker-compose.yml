@@ -1,0 +1,6 @@
+version: "3.3"
+services:
+  api:
+    image: oscarrrenalias/golang-http-server
+    ports:
+      - "${PORT:-80}:8080"
