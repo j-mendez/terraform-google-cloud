@@ -8,7 +8,7 @@ real-world production ready terraform deployment.
 
 ## Getting Started
 
-Fork or clone the project and adjust the [variables](./terraform/variables.tf) file to setup your infrastructure specifics. At the moment only GCP is supported.
+Fork or clone the project, follow [setup docs](./docs/SETUP.md) and adjust the [variables](./terraform/variables.tf) file to setup your infrastructure specifics. At the moment only GCP is supported.
 
 ## Deploying
 

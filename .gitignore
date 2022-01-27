@@ -8,6 +8,8 @@ tf-cloud-init
 tf-cloud-init.pub
 terraform/.terraform/*
 terraform/uploads
+# macos amd64 binary
+terraform/terraform
 
 # google service
 gc-service.json
